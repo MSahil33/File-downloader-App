@@ -9,7 +9,7 @@
 
 
 #### Click below to see the demo
-**[Live Preview](https://my-weather-app-new.netlify.app/  "Preview on Netlify")**
+**[Live Preview](https://my-file-downloader-app.netlify.app/  "Preview on Netlify")**
 
 ##### I have hosted this *File Downloader App* on **Netlify**
 
